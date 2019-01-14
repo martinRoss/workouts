@@ -8,7 +8,7 @@
 | -------------------------------------------- | ------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Cardio, your choice                          | 7-12 min     | N/A    |        |        |        |        |        |        |
 | Dynamic TRX Chest openers/hip flexor stretch | 1            | 16     |        |        |        |        |        |        |
-| Rotational arm next stretch                  | Each side | 30 sec |        |        |        |        |        |        |
+| Rotational arm neck stretch                  | Each side | 30 sec |        |        |        |        |        |        |
 | Cat cow                                      | Each side | 30 sec |        |        |        |        |        |        |
 
 ## Exercises
