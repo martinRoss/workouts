@@ -19,6 +19,7 @@
 | ----------------------------------- | ---- | ---- | ------- | ------ | ------ | ------ | ------ | ------ | ------ |
 | Shoulder press                      | 10   | 10   | 75 sec. |        |        |        |        |        |        |
 | Lat Pull down or assisted pull ups. | 10   | 10   | 75 sec. |        |        |        |        |        |        |
+| Hanging (or with stand) knee ups    | 10   | 10   | 75 sec. |        |        |        |        |        |        |
 | Lateral raise                       | 3    | 10   | 75 sec. |        |        |        |        |        |        |
 | Modified Dead Bug                   | 3    | 10   | 75 sec. |        |        |        |        |        |        |
 
