@@ -1,4 +1,5 @@
-# Chest and Back
+# Complete Bike Plan
+This is a lot for one workout. Split it up!
 
 **Day 1.** Repeat for 6 weeks.
 
